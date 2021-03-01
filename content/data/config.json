@@ -2,7 +2,6 @@
     "title": "Stackbit Vanilla Theme",
     "path_prefix": "/",
     "header": {
-        "title": "Stackbit Vanilla",
         "has_nav": true,
         "nav_links": [
             {
